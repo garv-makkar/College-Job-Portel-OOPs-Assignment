@@ -1,3 +1,3 @@
-# College-Job-Portel-OOPs-Assignment
+# Ecommerce OOPs Assignment
 
-A CLI based program. (An assignment of advance programming course)
+A CLI-based program implementing an e-commerce application functionalities. (An assignment of advanced programming course)
